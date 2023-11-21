@@ -68,11 +68,7 @@ class AdjustmentController extends Controller
      * @param  \App\Models\Area  $area
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Area $area)
-    {
-        //
-    }
-
+   
     /**
      * Remove the specified resource from storage.
      *
