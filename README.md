@@ -1,2 +1,2 @@
 # devsecops-training-2023
-demo practice for git
+demo practice for git.
